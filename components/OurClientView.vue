@@ -11,7 +11,7 @@
     </div>
     <div class="logo-client w-11/12 m-auto grid grid-cols-6 gap-4">
             <div class="logo1">
-                <img src="../assets/images/image 13.png" alt="">
+                <img src="../assets/images/image13.png" alt="">
             </div>
             <div class="logo2">
                 <img src="https://static.vecteezy.com/ti/vecteur-libre/p1/18911632-symbole-du-logo-editorial-smartphone-panasonic-gratuit-vectoriel.jpg" alt="">
